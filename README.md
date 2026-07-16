@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phani Vemuri</h1>
-<h3 align="center">Aspiring AI Engineer | ML Enthusiast | Web Developer 🚀</h3>
+<h3 align="center">AI Engineer | Full Stack Developer 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ThePhaniVemuri&label=Profile%20views&color=0e75b6&style=flat" alt="ThePhaniVemuri" />
@@ -13,11 +13,11 @@
 
 ---
 
-- 🔭 Currently working on **Machine Learning projects & SaaS tools**
-- 🌱 Learning **ML, JavaScript, Pandas, DataViz, OpenCV**
+- 🔭 Currently working on **AI projects & SaaS tools**
+- 🌱 Learning **AI, JavaScript, FullStack, Data Stuctures**
 - 💡 Exploring ideas to **build, monetize & innovate through tech**
 - 📚 Recently read: *Data Science from Scratch* & *Hands-on ML by Aurélien Géron*
-- 💬 Ask me about **Python, Django, JS, ML, GitHub, SaaS ideas**
+- 💬 Ask me about **Python, AI, Django, JS, Fullstack, GitHub, SaaS ideas**
 - 📫 Reach me at **vemuri.v.phani@gmail.com**
 - ⚡ Fun fact: *I see business ideas in everyday problems 😄*
 
